@@ -1,5 +1,5 @@
 GET http://localhost:3004/posts
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik5hcnV0byIsImlhdCI6MTYwMjU4MjYzOX0.kLtUSRphMCfQw7RGoz_yocqIHRIV3z9Nijm8wXQxl5s
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiTmFydXRvIiwiaWF0IjoxNjAyNzQyMzI3fQ._kqCEaEQUJR_X0gcblaGq0vHd16WAmIg4O0MmDSqZWk
 
 ###
 
